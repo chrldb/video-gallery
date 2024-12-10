@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 2. **Ajouter les fichiers au dépôt** :
    Dans votre terminal :
-    ```bash
+```bash
    git init
    git add .
    git commit -m "Initial commit"
@@ -90,4 +90,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 	•	Placez vos vidéos dans le répertoire videos/ localement.
 	•	Traitez-les avec process_1080p_videos.sh.
-
