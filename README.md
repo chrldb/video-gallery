@@ -43,8 +43,8 @@ python3 -m pip install git+https://github.com/openai/whisper.git
 ```plaintext
 videos/
 ├── video1/
-│   ├── video1_1080p.mp4
-│   ├── video1_720p.mp4
+│   ├── 1080p.mp4
+│   ├── 720p.mp4
 │   └── ...
 
 ```
