@@ -26,17 +26,20 @@ This project is a simple PHP-based video gallery that allows users to:
 ## Installation
 
 1. Clone the repository:
-   ```bash
+
+```bash
    git clone https://github.com/yourusername/video-gallery.git
    cd video-gallery
 ```
 	2.	Ensure FFmpeg and Whisper are installed:
+
 ```bash
 sudo apt install ffmpeg
 python3 -m pip install git+https://github.com/openai/whisper.git
 ```
 
 	3.	Place your videos in the videos/ folder. Videos should follow this structure:
+
 ```plaintext
 videos/
 ├── video1/
