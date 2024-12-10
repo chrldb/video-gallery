@@ -25,20 +25,20 @@ This project is a simple PHP-based video gallery that allows users to:
 
 ## Installation
 
-	1. Clone the repository:
+1. Clone the repository:
 
 ```bash
    git clone https://github.com/yourusername/video-gallery.git
    cd video-gallery
 ```
-	2.	Ensure FFmpeg and Whisper are installed:
+2.	Ensure FFmpeg and Whisper are installed:
 
 ```bash
 sudo apt install ffmpeg
 python3 -m pip install git+https://github.com/openai/whisper.git
 ```
 
-	3.	Place your videos in the videos/ folder. Videos should follow this structure:
+3.	Place your videos in the videos/ folder. Videos should follow this structure:
 
 ```plaintext
 videos/
@@ -48,14 +48,14 @@ videos/
 │   └── ...
 
 ```
-	4.	Run the Bash script to process videos:
+4.	Run the Bash script to process videos:
 
 ```bash
 ./process_1080p_videos.sh
 ```
 
-	5.	Deploy the index.php file to your web server.
-	6.	Open the site in a browser and enjoy your video gallery!
+5.	Deploy the index.php file to your web server.
+6.	Open the site in a browser and enjoy your video gallery!
 
 ## Usage
 	•	Videos are listed in the gallery with their available qualities.
@@ -89,7 +89,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ```
 
-3.	**Ajouter des vidéos** :
+3. **Ajouter des vidéos** :
 
 	•	Placez vos vidéos dans le répertoire videos/ localement.
 	•	Traitez-les avec process_1080p_videos.sh.
