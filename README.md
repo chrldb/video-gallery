@@ -92,4 +92,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 3. **Ajouter des vidéos** :
 
 	•	Placez vos vidéos dans le répertoire videos/ localement.
-	•	Traitez-les avec process_1080p_videos.sh.
+	•	Traitez-les avec process_videos.sh.
