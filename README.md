@@ -58,6 +58,7 @@ videos/
 6.	Open the site in a browser and enjoy your video gallery!
 
 ## Usage
+
 	•	Videos are listed in the gallery with their available qualities.
 	•	Transcriptions can be downloaded if they exist for the 1080p version.
 
