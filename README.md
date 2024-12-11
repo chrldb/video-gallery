@@ -60,6 +60,7 @@ videos/
 ## Usage
 
 	•	Videos are listed in the gallery with their available qualities.
+ 
 	•	Transcriptions can be downloaded if they exist for the 1080p version.
 
 ## Contributing
@@ -93,4 +94,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 3. **Ajouter des vidéos** :
 
 	•	Placez vos vidéos dans le répertoire videos/ localement.
+
 	•	Traitez-les avec process_videos.sh.
