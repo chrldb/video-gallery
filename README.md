@@ -75,12 +75,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Instructions pour GitHub
 
-1. **Créer un dépôt GitHub** :
-   - Allez sur [GitHub](https://github.com/) et créez un nouveau dépôt.
-   - Nommez-le `video-gallery`.
+1. **Create a GitHub repository** :
+   - Go to [GitHub](https://github.com/) and create a new repository.
+   - Name it `video-gallery`.
 
-2. **Ajouter les fichiers au dépôt** :
-   Dans votre terminal :
+2. **Add files to the repository** :
+   In your terminal :
 ```bash
    git init
    git add .
@@ -91,8 +91,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ```
 
-3. **Ajouter des vidéos** :
+3. **Add videos** :
 
-	•	Placez vos vidéos dans le répertoire videos/ localement.
+	- Place your videos in the videos/ directory locally.
 
-	•	Traitez-les avec process_videos.sh.
+	- Process them with process_videos.sh.
